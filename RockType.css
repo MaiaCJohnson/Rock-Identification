@@ -1,0 +1,36 @@
+body{
+	margin: auto;
+	padding: 5%;
+	background-color: #C7DEEB;
+	text-align: center;
+}
+
+h1{
+	display: inline-block;
+}
+
+p{
+	display: inline-block;
+	font-size: 18px;
+}
+
+#demo{
+	font-size: 24px;
+	font-weight: 600;
+}
+
+form{
+	display: inline-block;
+}
+
+.button {
+	background-color: white;
+	border-radius: 25px;
+	padding: 10px;
+	border-color: black;
+}
+
+.button:hover{
+	background-color: black;
+	color: white;
+}
